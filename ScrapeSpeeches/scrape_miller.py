@@ -65,6 +65,5 @@ def get_president_speech():
                                                    ""), 1)
         final_df.to_excel("presidential_speeches.xlsx")
 
-
-def main():
+if __name__ == '__main__':
     get_president_speech()
