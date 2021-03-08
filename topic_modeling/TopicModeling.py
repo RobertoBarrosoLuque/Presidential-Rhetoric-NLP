@@ -186,8 +186,8 @@ class TopicModels:
         :return: dictionary with {Topic_id: [docindx1, docindx2, .....]}
         :rtype: dict
         """
-        # model[corpus] will return a transformed corpus with the first 
-        # element as a list of the form [(topic id, percent related), ... ] 
+        # model[corpus] will return a transformed corpus with the first
+        # element as a list of the form [(topic id, percent related), ... ]
         # this element can be sorted to find which
         # topic is most representative of each document.
 
@@ -270,7 +270,7 @@ class TopicModels:
         #Update the DataFrame
         for topicNum in range(ldamodel.num_topics):
             ldaDF['topic_{}'.format(topicNum+1)] = topicsProbDict[topicNum]
-        
+
         return ldaDF
 
     def generate_topic_wordcloud(self, ldamodel=None):
@@ -291,9 +291,9 @@ class TopicModels:
                           color_func=lambda *args, **kwargs: cols[i],
                           prefer_horizontal=1.0)
         if ldamodel is None:
-            topics = self.best_model.show_topics(formatted=False)
+            topics = self.best_model.show_topics(formatted=False, num_topics=-1)
         else:
-            topics = ldamodel.show_topics(formatted=False)
+            topics = ldamodel.show_topics(formatted=False, num_topics=-1)
 
         num_topics = len(topics)
         fig, axes = plt.subplots(num_topics // 2, 2, figsize=(20, 20), sharex='all', sharey='all')
@@ -324,7 +324,7 @@ class TopicModels:
         LDAdf.plot(kind="bar", stacked=True)
         plt.legend(loc="right")
         plt.legend(loc=(1.04,0))
-        
+
         if title:
             plt.title(title)
 
