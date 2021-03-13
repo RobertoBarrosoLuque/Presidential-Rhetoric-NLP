@@ -64,22 +64,29 @@ def top_words_by_cluster(Vectorizer, KM, numCategories, no_words=10):
         print('\n')
     
 
-def viz_2D(dataTFVects, dataKM, numCategories, colors_a):
+def viz_2D(dataTFVects, dataKM, numCategories, colors_a=None, figsize=(5,10)):
     dataPCA = sklearn.decomposition.PCA(n_components = 2).fit(dataTFVects.toarray())
     reducedPCA_data = dataPCA.transform(dataTFVects.toarray())
     
     colors = list(plt.cm.rainbow(np.linspace(0,1, numCategories)))
     colors_p = [colors[l] for l in dataKM.labels_]
 
-    fig, (ax1,ax2) = plt.subplots(2,1, figsize=(5,10))
-    ax1.title.set_text('Predicted Clusters\n k = {}'.format(numCategories))
-    ax1.set_frame_on(False)
-    ax1.scatter(reducedPCA_data[:, 0], reducedPCA_data[:, 1], color = colors_p, alpha = 0.5)
+    if colors_a:
+        fig, (ax1,ax2) = plt.subplots(2,1, figsize=figsize)
+        ax1.title.set_text('Predicted Clusters\n k = {}'.format(numCategories))
+        ax1.set_frame_on(False)
+        ax1.scatter(reducedPCA_data[:, 0], reducedPCA_data[:, 1], color = colors_p, alpha = 0.5)
+        
+        ax2.title.set_text('True Classes')
+        ax2.set_frame_on(False)
+        ax2.scatter(reducedPCA_data[:, 0], reducedPCA_data[:, 1], color = colors_a, alpha = 0.5)
     
-    ax2.title.set_text('True Classes')
-    ax2.set_frame_on(False)
-    ax2.scatter(reducedPCA_data[:, 0], reducedPCA_data[:, 1], color = colors_a, alpha = 0.5)
-    
+    else:
+        fig, (ax1) = plt.subplots(1,1, figsize=figsize)
+        ax1.title.set_text('Predicted Clusters\n k = {}'.format(numCategories))
+        ax1.set_frame_on(False)
+        ax1.scatter(reducedPCA_data[:, 0], reducedPCA_data[:, 1], color = colors_p, alpha = 0.5)
+
     plt.show()
     
 
