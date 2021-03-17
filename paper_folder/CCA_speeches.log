@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.1)  16 MAR 2021 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.1)  17 MAR 2021 17:27
 entering extended mode
 **./CCA_speeches.tex
 (CCA_speeches.tex
@@ -482,145 +482,140 @@ Package microtype Info: Loading generic protrusion settings for font family
 [1
 
 
-{C:/Users/robal/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
-<figures/speechesstylepresident.png, id=92, 3704.84125pt x 3781.12625pt>
+{C:/Users/robal/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+[3] [4] [5] [6]
+<figures/speechesstylepresident.png, id=108, 3704.84125pt x 3781.12625pt>
 File: figures/speechesstylepresident.png Graphic file (type png)
 <use figures/speechesstylepresident.png>
 Package pdftex.def Info: figures/speechesstylepresident.png  used on input line
- 133.
+ 147.
 (pdftex.def)             Requested size: 397.48499pt x 405.65543pt.
-
-Underfull \vbox (badness 6859) has occurred while \output is active []
-
- [4]
-<figures/clusters.png, id=98, 867.24pt x 866.23625pt>
+<figures/clusters.png, id=110, 867.24pt x 866.23625pt>
 File: figures/clusters.png Graphic file (type png)
 <use figures/clusters.png>
-Package pdftex.def Info: figures/clusters.png  used on input line 144.
+Package pdftex.def Info: figures/clusters.png  used on input line 157.
 (pdftex.def)             Requested size: 397.48499pt x 397.03279pt.
-<figures/Documenttopics.png, id=99, 2156.055pt x 1172.38pt>
+<figures/Documenttopics.png, id=111, 2156.055pt x 1172.38pt>
 File: figures/Documenttopics.png Graphic file (type png)
 <use figures/Documenttopics.png>
-Package pdftex.def Info: figures/Documenttopics.png  used on input line 154.
+Package pdftex.def Info: figures/Documenttopics.png  used on input line 167.
 (pdftex.def)             Requested size: 397.48499pt x 216.13556pt.
+ [7] [8pdfTeX warning (ext4): destination with the same identifier (name{figure
+.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.176 
+       <./figures/speechesstylepresident.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 4543) has occurred while \output is active []
-
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ [9pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.156 \end{figure}
-                   <./figures/speechesstylepresident.png>]
-Underfull \vbox (badness 2119) has occurred while \output is active []
-
- [6pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
- has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.192 \end{table}
-                  <./figures/clusters.png>]
-Overfull \hbox (74.3506pt too wide) in paragraph at lines 200--247
+l.208 
+       <./figures/clusters.png>]
+Overfull \hbox (74.3506pt too wide) in paragraph at lines 215--262
  [][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
- has been already used, duplicate ignored
+ [10pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.248 
-       <./figures/Documenttopics.png>] [8]
-<figures/topicdistributions.png, id=125, 3262.1875pt x 1144.275pt>
+l.263 
+       <./figures/Documenttopics.png>]
+<figures/topicdistributions.png, id=136, 3262.1875pt x 1144.275pt>
 File: figures/topicdistributions.png Graphic file (type png)
 <use figures/topicdistributions.png>
-Package pdftex.def Info: figures/topicdistributions.png  used on input line 262
+Package pdftex.def Info: figures/topicdistributions.png  used on input line 275
 .
 (pdftex.def)             Requested size: 397.48499pt x 139.41975pt.
-<figures/SWEovertime.png, id=126, 1806.75pt x 1011.78pt>
+ [11] [12pdfTeX warning (ext4): destination with the same identifier (name{figu
+re.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.286 	
+        <./figures/topicdistributions.png>]
+<figures/executivewordembedings.png, id=148, 378.66469pt x 108.405pt>
+File: figures/executivewordembedings.png Graphic file (type png)
+<use figures/executivewordembedings.png>
+Package pdftex.def Info: figures/executivewordembedings.png  used on input line
+ 295.
+(pdftex.def)             Requested size: 397.48499pt x 113.79385pt.
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.302 
+       <./figures/executivewordembedings.png>]
+<figures/SWEovertime.png, id=156, 1806.75pt x 1011.78pt>
 File: figures/SWEovertime.png Graphic file (type png)
 <use figures/SWEovertime.png>
-Package pdftex.def Info: figures/SWEovertime.png  used on input line 272.
+Package pdftex.def Info: figures/SWEovertime.png  used on input line 340.
 (pdftex.def)             Requested size: 397.48499pt x 222.59229pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ [14]
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.275 
-       <./figures/topicdistributions.png>]
-<figures/executivewordembedings.png, id=133, 378.66469pt x 108.405pt>
-File: figures/executivewordembedings.png Graphic file (type png)
-<use figures/executivewordembedings.png>
-Package pdftex.def Info: figures/executivewordembedings.png  used on input line
- 285.
-(pdftex.def)             Requested size: 397.48499pt x 113.79385pt.
-
-Underfull \vbox (badness 2809) has occurred while \output is active []
-
- [10pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
-) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.287 \end{figure}
-                   <./figures/SWEovertime.png>]
-<figures/speechestopicmodel.png, id=140, 414.04688pt x 552.94078pt>
+l.351 \section
+              {References}\label{sec_ref} <./figures/SWEovertime.png>] [16]
+<figures/speechestopicmodel.png, id=173, 414.04688pt x 552.94078pt>
 File: figures/speechestopicmodel.png Graphic file (type png)
 <use figures/speechestopicmodel.png>
-Package pdftex.def Info: figures/speechestopicmodel.png  used on input line 310
+Package pdftex.def Info: figures/speechestopicmodel.png  used on input line 370
 .
 (pdftex.def)             Requested size: 397.48499pt x 530.83398pt.
- [11pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
-) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.312 \end{figure}
-                   <./figures/executivewordembedings.png>]
-<figures/execorderstopics.png, id=148, 693.59125pt x 1123.19624pt>
+<figures/execorderstopics.png, id=174, 693.59125pt x 1123.19624pt>
 File: figures/execorderstopics.png Graphic file (type png)
 <use figures/execorderstopics.png>
-Package pdftex.def Info: figures/execorderstopics.png  used on input line 316.
+Package pdftex.def Info: figures/execorderstopics.png  used on input line 376.
 (pdftex.def)             Requested size: 397.48499pt x 643.70764pt.
 
 
-LaTeX Warning: Float too large for page by 24.34256pt on input line 318.
+LaTeX Warning: Float too large for page by 24.34256pt on input line 378.
 
-[12pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.324 \end{document}
-                     <./figures/speechestopicmodel.png>] [13pdfTeX warning (ext
+l.380 \end{document}
+                     <./figures/speechestopicmodel.png>] [18pdfTeX warning (ext
 4): destination with the same identifier (name{figure.8}) has been already used
 , duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.324 \end{document}
+l.380 \end{document}
                      <./figures/execorderstopics.png>] (CCA_speeches.aux)
 Package rerunfilecheck Info: File `CCA_speeches.out' has not changed.
-(rerunfilecheck)             Checksum: FF59E39C0B38E9B47E60307BF89E2788;1224.
+(rerunfilecheck)             Checksum: 8C7E7CC5EDCDAC0E5B195F4E8CE12044;1337.
  ) 
 Here is how much of TeX's memory you used:
- 8379 strings out of 480224
- 135133 string characters out of 2880103
- 478916 words of memory out of 3000000
- 24598 multiletter control sequences out of 15000+200000
- 562999 words of font info for 140 fonts, out of 3000000 for 9000
+ 8393 strings out of 480224
+ 135256 string characters out of 2880103
+ 478274 words of memory out of 3000000
+ 24599 multiletter control sequences out of 15000+200000
+ 563259 words of font info for 144 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,1588b,409s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 72i,8n,77p,1587b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
 :\Users\robal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.
 pk><C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.p
 fb><C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.p
 fb><C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on CCA_speeches.pdf (13 pages, 2431755 bytes).
+Output written on CCA_speeches.pdf (18 pages, 2447707 bytes).
 PDF statistics:
- 208 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 18617 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 18625 words of extra memory for PDF output out of 20736 (max. 10000000)
 

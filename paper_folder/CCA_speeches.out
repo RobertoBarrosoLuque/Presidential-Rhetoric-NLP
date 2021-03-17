@@ -1,18 +1,19 @@
-\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1}{Introduction and Background}{}% 1
 \BOOKMARK [1][-]{section.2}{Methodology}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{Data}{section.2}% 3
 \BOOKMARK [2][-]{subsection.2.2}{Word Counts and Dependency Parsing }{section.2}% 4
 \BOOKMARK [2][-]{subsection.2.3}{Sentiment}{section.2}% 5
 \BOOKMARK [2][-]{subsection.2.4}{K-Means Clustering}{section.2}% 6
 \BOOKMARK [2][-]{subsection.2.5}{Topic Modelling and Latent Dirichlet Allocation}{section.2}% 7
-\BOOKMARK [2][-]{subsection.2.6}{Vector Space Word Embeddings Over Time}{section.2}% 8
-\BOOKMARK [2][-]{subsection.2.7}{Doc2Vec}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.6}{Doc2Vec}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Vector Space Word Embeddings Over Time}{section.2}% 9
 \BOOKMARK [1][-]{section.3}{Results}{}% 10
 \BOOKMARK [2][-]{subsection.3.1}{Word Counts, Dependency Parsing and Sentiment}{section.3}% 11
 \BOOKMARK [2][-]{subsection.3.2}{K-Means Clustering}{section.3}% 12
 \BOOKMARK [2][-]{subsection.3.3}{Topic Modeling and Latent Dirichlet Allocation}{section.3}% 13
-\BOOKMARK [2][-]{subsection.3.4}{Vector Space Word Embeddings Over Time}{section.3}% 14
-\BOOKMARK [2][-]{subsection.3.5}{Doc2Vec}{section.3}% 15
-\BOOKMARK [1][-]{section.4}{Conclusion, further research and limitations}{}% 16
-\BOOKMARK [1][-]{section.5}{References}{}% 17
-\BOOKMARK [1][-]{section.6}{Supplementary Figures}{}% 18
+\BOOKMARK [2][-]{subsection.3.4}{Doc2Vec}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.5}{Word Embeddings and Semantic Partisan Difference}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.6}{Vector Space Word Embeddings Over Time}{section.3}% 16
+\BOOKMARK [1][-]{section.4}{Conclusion, further research and limitations}{}% 17
+\BOOKMARK [1][-]{section.5}{References}{}% 18
+\BOOKMARK [1][-]{section.6}{Supplementary Figures}{}% 19
