@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.1)  17 MAR 2021 17:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.11.1)  19 MAR 2021 15:15
 entering extended mode
 **./CCA_speeches.tex
 (CCA_speeches.tex
@@ -299,30 +299,40 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 \@float@every@table=\toks24
 
+(C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen167
+\ar@mcellbox=\box49
+\extrarowheight=\dimen168
+\NC@list=\toks25
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box50
+)
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count270
-\l__pdf_internal_box=\box49
+\l__pdf_internal_box=\box51
 ) (CCA_speeches.aux)
 \openout1 = `CCA_speeches.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -390,7 +400,7 @@ LaTeX Font Info:    ... okay on input line 57.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 57.
+Package hyperref Info: Link coloring OFF on input line 59.
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -403,21 +413,21 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count271
 )
-LaTeX Info: Redefining \ref on input line 57.
-LaTeX Info: Redefining \pageref on input line 57.
-LaTeX Info: Redefining \nameref on input line 57.
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
  (CCA_speeches.out) (CCA_speeches.out)
 \@outlinefile=\write3
 \openout3 = `CCA_speeches.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 57.
+LaTeX Info: Redefining \microtypecontext on input line 59.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 57.
+LaTeX Info: Redefining \showhyphens on input line 59.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -429,16 +439,16 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count272
-\scratchdimen=\dimen167
-\scratchbox=\box50
+\scratchdimen=\dimen169
+\scratchbox=\box52
 \nofMPsegments=\count273
 \nofMParguments=\count274
-\everyMPshowfont=\toks25
+\everyMPshowfont=\toks26
 \MPscratchCnt=\count275
-\MPscratchDim=\dimen168
+\MPscratchDim=\dimen170
 \MPnumerator=\count276
 \makeMPintoPDFobject=\count277
-\everyMPtoPDFconversion=\toks26
+\everyMPtoPDFconversion=\toks27
 )
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -450,7 +460,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
 
 
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
@@ -459,7 +469,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
 
 
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -468,8 +478,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
-9.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 6
+1.
 
 (C:\Users\robal\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
@@ -486,136 +496,157 @@ Package microtype Info: Loading generic protrusion settings for font family
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2]
-[3] [4] [5] [6]
-<figures/speechesstylepresident.png, id=108, 3704.84125pt x 3781.12625pt>
+[3] [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6] [7]
+<figures/speechesstylepresident.png, id=114, 3704.84125pt x 3781.12625pt>
 File: figures/speechesstylepresident.png Graphic file (type png)
 <use figures/speechesstylepresident.png>
 Package pdftex.def Info: figures/speechesstylepresident.png  used on input line
- 147.
+ 186.
 (pdftex.def)             Requested size: 397.48499pt x 405.65543pt.
-<figures/clusters.png, id=110, 867.24pt x 866.23625pt>
-File: figures/clusters.png Graphic file (type png)
-<use figures/clusters.png>
-Package pdftex.def Info: figures/clusters.png  used on input line 157.
-(pdftex.def)             Requested size: 397.48499pt x 397.03279pt.
-<figures/Documenttopics.png, id=111, 2156.055pt x 1172.38pt>
-File: figures/Documenttopics.png Graphic file (type png)
-<use figures/Documenttopics.png>
-Package pdftex.def Info: figures/Documenttopics.png  used on input line 167.
-(pdftex.def)             Requested size: 397.48499pt x 216.13556pt.
- [7] [8pdfTeX warning (ext4): destination with the same identifier (name{figure
-.1}) has been already used, duplicate ignored
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.176 
-       <./figures/speechesstylepresident.png>]
+l.190 \newpage
+               <./figures/speechesstylepresident.png>]
+<figures/clusters.png, id=122, 867.24pt x 866.23625pt>
+File: figures/clusters.png Graphic file (type png)
+<use figures/clusters.png>
+Package pdftex.def Info: figures/clusters.png  used on input line 197.
+(pdftex.def)             Requested size: 346.88986pt x 346.48836pt.
+<figures/Documenttopics.png, id=123, 217.93922pt x 348.17578pt>
+File: figures/Documenttopics.png Graphic file (type png)
+<use figures/Documenttopics.png>
+Package pdftex.def Info: figures/Documenttopics.png  used on input line 203.
+(pdftex.def)             Requested size: 152.5564pt x 243.72137pt.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.208 
-       <./figures/clusters.png>]
-Overfull \hbox (74.3506pt too wide) in paragraph at lines 215--262
- [][] 
- []
-
-
+l.206 \subsection
+                 {Topic Modeling and Latent Dirichlet Allocation}{ <./figures/c
+lusters.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
 ) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.263 
+l.245 
        <./figures/Documenttopics.png>]
-<figures/topicdistributions.png, id=136, 3262.1875pt x 1144.275pt>
+Overfull \hbox (74.3506pt too wide) in paragraph at lines 252--299
+ [][] 
+ []
+
+
+Underfull \vbox (badness 2884) has occurred while \output is active []
+
+ [11]
+<figures/topicdistributions.png, id=142, 3262.1875pt x 1144.275pt>
 File: figures/topicdistributions.png Graphic file (type png)
 <use figures/topicdistributions.png>
-Package pdftex.def Info: figures/topicdistributions.png  used on input line 275
+Package pdftex.def Info: figures/topicdistributions.png  used on input line 312
 .
 (pdftex.def)             Requested size: 397.48499pt x 139.41975pt.
- [11] [12pdfTeX warning (ext4): destination with the same identifier (name{figu
-re.4}) has been already used, duplicate ignored
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.286 	
-        <./figures/topicdistributions.png>]
-<figures/executivewordembedings.png, id=148, 378.66469pt x 108.405pt>
-File: figures/executivewordembedings.png Graphic file (type png)
-<use figures/executivewordembedings.png>
-Package pdftex.def Info: figures/executivewordembedings.png  used on input line
- 295.
-(pdftex.def)             Requested size: 397.48499pt x 113.79385pt.
- [13pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
-) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  
-l.302 
-       <./figures/executivewordembedings.png>]
-<figures/SWEovertime.png, id=156, 1806.75pt x 1011.78pt>
-File: figures/SWEovertime.png Graphic file (type png)
-<use figures/SWEovertime.png>
-Package pdftex.def Info: figures/SWEovertime.png  used on input line 340.
-(pdftex.def)             Requested size: 397.48499pt x 222.59229pt.
+l.316 \newpage
+               <./figures/topicdistributions.png>]
+Overfull \hbox (69.63998pt too wide) in paragraph at lines 334--373
+ [][] 
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14]
-[15pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
- has been already used, duplicate ignored
+ [13]
+[14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+<figures/executivewordembedings.png, id=163, 378.66469pt x 108.405pt>
+File: figures/executivewordembedings.png Graphic file (type png)
+<use figures/executivewordembedings.png>
+Package pdftex.def Info: figures/executivewordembedings.png  used on input line
+ 433.
+(pdftex.def)             Requested size: 397.48499pt x 113.79385pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.351 \section
-              {References}\label{sec_ref} <./figures/SWEovertime.png>] [16]
-<figures/speechestopicmodel.png, id=173, 414.04688pt x 552.94078pt>
+l.440 
+       <./figures/executivewordembedings.png>] [17]
+<figures/SWEovertime.png, id=176, 1806.75pt x 1011.78pt>
+File: figures/SWEovertime.png Graphic file (type png)
+<use figures/SWEovertime.png>
+Package pdftex.def Info: figures/SWEovertime.png  used on input line 478.
+(pdftex.def)             Requested size: 397.48499pt x 222.59229pt.
+ [18pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  
+l.482 \newpage
+               <./figures/SWEovertime.png>] [19]
+<figures/speechestopicmodel.png, id=189, 414.04688pt x 552.94078pt>
 File: figures/speechestopicmodel.png Graphic file (type png)
 <use figures/speechestopicmodel.png>
-Package pdftex.def Info: figures/speechestopicmodel.png  used on input line 370
+Package pdftex.def Info: figures/speechestopicmodel.png  used on input line 512
 .
 (pdftex.def)             Requested size: 397.48499pt x 530.83398pt.
-<figures/execorderstopics.png, id=174, 693.59125pt x 1123.19624pt>
+<figures/execorderstopics.png, id=190, 693.59125pt x 1123.19624pt>
 File: figures/execorderstopics.png Graphic file (type png)
 <use figures/execorderstopics.png>
-Package pdftex.def Info: figures/execorderstopics.png  used on input line 376.
+Package pdftex.def Info: figures/execorderstopics.png  used on input line 518.
 (pdftex.def)             Requested size: 397.48499pt x 643.70764pt.
 
 
-LaTeX Warning: Float too large for page by 24.34256pt on input line 378.
+LaTeX Warning: Float too large for page by 24.34256pt on input line 520.
 
-[17pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
+[20pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
  has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.380 \end{document}
-                     <./figures/speechestopicmodel.png>] [18pdfTeX warning (ext
+l.522 \end{document}
+                     <./figures/speechestopicmodel.png>] [21pdfTeX warning (ext
 4): destination with the same identifier (name{figure.8}) has been already used
 , duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.380 \end{document}
+l.522 \end{document}
                      <./figures/execorderstopics.png>] (CCA_speeches.aux)
 Package rerunfilecheck Info: File `CCA_speeches.out' has not changed.
 (rerunfilecheck)             Checksum: 8C7E7CC5EDCDAC0E5B195F4E8CE12044;1337.
  ) 
 Here is how much of TeX's memory you used:
- 8393 strings out of 480224
- 135256 string characters out of 2880103
- 478274 words of memory out of 3000000
- 24599 multiletter control sequences out of 15000+200000
+ 8454 strings out of 480224
+ 136027 string characters out of 2880103
+ 477497 words of memory out of 3000000
+ 24651 multiletter control sequences out of 15000+200000
  563259 words of font info for 144 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,1587b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 72i,10n,77p,2374b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C
 :\Users\robal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.
 pk><C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.p
 fb><C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.p
 fb><C:/Users/robal/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on CCA_speeches.pdf (18 pages, 2447707 bytes).
+Output written on CCA_speeches.pdf (21 pages, 2291365 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
+ 251 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
  18625 words of extra memory for PDF output out of 20736 (max. 10000000)
 
