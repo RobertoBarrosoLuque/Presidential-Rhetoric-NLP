@@ -30,3 +30,15 @@ https://millercenter.org/the-presidency/presidential-speeches
 + `speeches-semantic-analysis.ipynb`: dependency parsing and word frequency analysis of speeches
 + `speeches-topics-ebmeddings.ipynb`: topic modeling for speeches
 
+`paper_folder`: contains figures and final paper
++`CCA_speeches.pdf` contains the final paper in PDF form
+
+`scrape_speeches`: contains code for scraping presidential speeches from the Miller corpus
+
+`topic_modeling`:
++`PrepareText.py`: contains functions for text cleaning and pre-processing
++`TopicModeling.py`: contains functions for performing topic modeling using LDA, conducting grid searches, and generating visualizations
+
+`utils`:
++`helper_functions.py`: contains helper functions for performing clustering and creating visualizations
++`utils.py`: contains helper functions for pre-processing text as well as dependency parsing and related analysis
