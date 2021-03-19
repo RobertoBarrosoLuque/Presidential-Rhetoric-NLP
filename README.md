@@ -31,7 +31,7 @@ https://millercenter.org/the-presidency/presidential-speeches
 + `speeches-topics-ebmeddings.ipynb`: topic modeling for speeches
 
 `paper_folder`: contains figures and final paper
-+`CCA_speeches.pdf` contains the final paper in PDF form
++ `CCA_speeches.pdf` contains the final paper in PDF form
 
 `scrape_speeches`: contains code for scraping presidential speeches from the Miller corpus
 
