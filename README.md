@@ -36,9 +36,9 @@ https://millercenter.org/the-presidency/presidential-speeches
 `scrape_speeches`: contains code for scraping presidential speeches from the Miller corpus
 
 `topic_modeling`:
-+`PrepareText.py`: contains functions for text cleaning and pre-processing
-+`TopicModeling.py`: contains functions for performing topic modeling using LDA, conducting grid searches, and generating visualizations
++ `PrepareText.py`: contains functions for text cleaning and pre-processing
++ `TopicModeling.py`: contains functions for performing topic modeling using LDA, conducting grid searches, and generating visualizations
 
 `utils`:
-+`helper_functions.py`: contains helper functions for performing clustering and creating visualizations
-+`utils.py`: contains helper functions for pre-processing text as well as dependency parsing and related analysis
++ `helper_functions.py`: contains helper functions for performing clustering and creating visualizations
++ `utils.py`: contains helper functions for pre-processing text as well as dependency parsing and related analysis
